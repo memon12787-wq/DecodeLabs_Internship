@@ -9,4 +9,4 @@ Python-based chatbot using dictionary lookup for fast responses.
 - IPO Model
 - Fallback Responses
 ### Run
-decodelabs_RuleBasedAIChatbot.py
+DecodeLabs_RuleBasedAIChatbot.py
