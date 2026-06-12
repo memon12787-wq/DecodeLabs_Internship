@@ -31,3 +31,25 @@ A machine learning classification model built using the Iris dataset. The projec
 - Predicts the species of a new flower sample
 ### Run
 Iris_Classification_Model.py
+
+
+
+## Project 3 — AI Recommendation Logic
+
+A logic-based recommendation system built in Python that suggests relevant items based on user preferences. The project uses similarity scoring and pattern matching techniques to generate personalized recommendations.
+### Concepts
+* User Preference Analysis
+* Pattern Matching
+* Similarity Scoring
+* Recommendation Logic
+* Input Processing
+* Sorting and Ranking
+### Features
+* Accepts user interests or preferences as input
+* Matches preferences with item attributes
+* Calculates similarity scores for recommendations
+* Ranks recommendations based on relevance
+* Displays personalized recommendations
+* Handles cases where no suitable recommendations are found
+### Run
+AIRecommendationLogic.py
